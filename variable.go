@@ -3,8 +3,11 @@ package main
 import "fmt"
 
 func main() {
-	var name string
 
-	name="farhan iqbal"
+
+	name := "farhan iqbal"
+	fmt.Println(name)
+
+	name = "Farhan Maulana Iqbal"
 	fmt.Println(name)
 }
