@@ -16,4 +16,11 @@ func main(){
 	
 	fmt.Println(g)
 
+	//augmented Assigment
+
+	var i = 15
+	i += 10
+
+	fmt.Println(i)
+
   }
