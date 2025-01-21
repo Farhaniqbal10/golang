@@ -23,4 +23,10 @@ func main(){
 
 	fmt.Println(i)
 
+	//unary operator
+
+	var j = 1
+	j++
+	fmt.Println(j)
+
   }
