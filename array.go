@@ -11,4 +11,11 @@ func main(){
   fmt.Println(names[0])
   fmt.Println(names[1])
   fmt.Println(names[2])
+
+  var values = [3]int {
+    15,
+    12,
+    11,
+    }
+  fmt.Println(values)
   }
