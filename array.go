@@ -18,4 +18,13 @@ func main(){
     11,
     }
   fmt.Println(values)
+
+  var values2 = [...]int {
+    10,
+    15,
+    25,
+    20,
+    35,
+    }
+  fmt.Println(values2)
   }
