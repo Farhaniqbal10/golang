@@ -29,4 +29,13 @@ func main() {
   fmt.Println(dayslice2)
   fmt.Println(days)
 
+  //make slice
+  newslice := make([]string,2,5)
+  newslice[0] := "farhan"
+  newslice[1] := "iqbal"
+
+  fmt.Println(newslice)
+  fmt.Println(len(newslice))
+  fmt.Println(cap(newslice))
+
 }
